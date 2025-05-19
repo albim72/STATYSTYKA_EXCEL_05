@@ -1,0 +1,28 @@
+{
+    "osoby": [
+        {
+            "Imię": "Jan",
+            "Nazwisko": "Kowalski",
+            "Wiek": 30,
+            "Miasto": "Warszawa"
+        },
+        {
+            "Imię": "Anna",
+            "Nazwisko": "Nowak",
+            "Wiek": 25,
+            "Miasto": "Kraków"
+        },
+        {
+            "Imię": "Piotr",
+            "Nazwisko": "Zieliński",
+            "Wiek": 40,
+            "Miasto": "Gdańsk"
+        },
+        {
+            "Imię": "Maria",
+            "Nazwisko": "Wiśniewska",
+            "Wiek": 35,
+            "Miasto": "Wrocław"
+        }
+    ]
+}
