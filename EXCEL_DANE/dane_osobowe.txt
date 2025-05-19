@@ -1,0 +1,5 @@
+Imię	Nazwisko	Wiek	Miasto
+Jan	Kowalski	30	Warszawa
+Anna	Nowak	25	Kraków
+Piotr	Zieliński	40	Gdańsk
+Maria	Wiśniewska	35	Wrocław
